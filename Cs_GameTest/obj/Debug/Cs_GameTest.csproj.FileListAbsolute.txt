@@ -1,0 +1,10 @@
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\bin\Debug\Cs_GameTest.exe.config
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\bin\Debug\Cs_GameTest.exe
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\bin\Debug\Cs_GameTest.pdb
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\obj\Debug\Cs_GameTest.csprojAssemblyReference.cache
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\obj\Debug\Cs_GameTest.Properties.Resources.resources
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\obj\Debug\Cs_GameTest.csproj.GenerateResource.cache
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\obj\Debug\Cs_GameTest.csproj.CoreCompileInputs.cache
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\obj\Debug\Cs_GameTest.exe
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\obj\Debug\Cs_GameTest.pdb
+C:\Users\Seb\Documents\Visual Studio 2017\Projects\Cs_GameTest\Cs_GameTest\obj\Debug\Cs_GameTest.MainHandler.resources
